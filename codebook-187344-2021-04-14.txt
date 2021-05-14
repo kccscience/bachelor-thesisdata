@@ -1,0 +1,156 @@
+* Åpen vitenskap og åpne forskningsdata ved norske universitets- og høyskolebibliotek (id 187344) - 14.04.2021 23:39
+
+* Variabel	Etikett
+
+
+var1	1. Drives det aktiv forskning ved institusjonen som ditt bibliotek er en del av?
+
+1	Ja, det er vitenskapelig ansatte ved institusjonen som driver aktiv forskning
+2	Nei, institusjonen driver kun med undervisning
+
+
+q2_delav	2. Mitt bibliotek er en del av ...
+
+hoy	En høyskole
+uni	Et universitet
+annet	Annet
+
+
+q2_delav_komm	Vennligst beskriv kort, og uten å identifisere ved navn, hva slags institusjon det er:
+
+
+q3_biborg	3. Er biblioteket organisert under institusjonen som helhet, eller en del av institusjonen (fakultet, institutt, senter, geografisk avdeling o.l.)?
+
+hele	Institusjonen som helhet
+underavd	En underavdeling av institusjonen
+
+
+q3_biborg_underavdtype	Utdyp gjerne hvilken type underavdeling det er snakk om, men uten å identifisere den ved navn (for eksempel &#34;fakultetsbibliotek&#34;):
+
+
+q4_bibstr	4. Omtrent hvor mange er ansatt ved biblioteket der du jobber?
+
+lite	5 eller færre ansatte
+medium	6–15 ansatte
+stort	16 eller fler ansatte
+
+
+q5_landsdel	5. I hvilken landsdel ligger biblioteket der du jobber?
+
+nord	Nord-Norge (Troms og Finnmark, Nordland) eller Svalbard
+midt	Midt-Norge (Trøndelag)
+sor	Sørlandet (Agder)
+vest	Vestlandet (Møre og Romsdal, Rogaland, Vestland)
+ost	Østlandet (Viken, Innlandet, Oslo, Vestfold og Telemark)
+0	Ønsker ikke å svare
+
+
+q6_kunnskap_os	Open science
+
+q6_kunnskap_od	Open data
+
+q6_kunnskap_rdm	RDM
+
+q6_kunnskap_dmp	DMP
+
+q6_kunnskap_fair	FAIR-prinsippene
+
+1	Kjenner ikke til det
+2	Har hørt om det, men vet ikke så mye om det
+3	Har hørt om det, og vet en del om det
+4	Kjenner godt til det, og det er relevant for min arbeidshverdag
+
+
+q6_kunnskap_komm	6b. Eventuelle kommentarer til svarene over:
+
+
+q7a_holdn_bibans_nasjonal	a. Som bibliotekansatt opplever jeg at de _bibliotekfaglig_ ansatte ved universitetet/høyskolen har god kunnskap om/er oppdaterte på den nasjonale satsingen på muliggjøringen av deling og gjenbruk av forskningsdata
+
+q7b_holdn_vitans_OS	b. Som bibliotekansatt opplever jeg at de _vitenskapelig_ ansatte ved universitetet/høyskolen er generelt opptatte av åpen vitenskap og åpne forskningsdata
+
+q7c_holdn_alltid_tilgjengelig	c. Forskningsdatasett bør alltid tilgjengeliggjøres og deles på lik linje med forskningsresultater (bortsett fra der hensyn til personvern gjør dette umulig)
+
+q7d_holdn_bib_rolle_dev	d. Biblioteket bør spille en stor rolle når det gjelder arbeid med utvikling eller tilpasning av nye løsninger og standarder for lagring, deling og forvaltning av forskningsdata
+
+q7e_holdn_bib_rolle_edu	e. Biblioteket bør spille en stor rolle når det gjelder utforming av kurs, workshops og annet opplæringsmateriell for forskere innen lagring, deling og forvaltning av forskningsdata
+
+q7f_holdn_bib_kompetanseheving	f. Biblioteket bør sørge for kompetanseheving blant de bibliotekansatte gjennom kurs, workshops og annet opplæringsmateriell innen kunnskaper om og bruk av løsninger for lagring, deling og forvaltning av forskningsdata
+
+q7g_holdn_bib_samarb_tverrf_edu	g. Biblioteket bør samarbeide tett med andre instanser ved institusjonen (f.eks. IT-avdeling, representanter fra forskerne, pedagoger) når det gjelder utforming av kurs, workshops og annet opplæringsmateriell for forskere innen lagring, deling og forvaltning av forskningsdata
+
+1	1. helt uenig
+2	2. delvis uenig
+3	3. hverken enig eller uenig
+4	4. delvis enig
+5	5. helt enig
+
+
+q7_holdn_komm	7b. Eventuelle kommentarer til svarene over:
+
+
+q8_prax_exist_policy	8. Har universitetet/høyskolen du er tilknyttet en offisiell policy for sikker lagring, tilgjengeliggjøring og håndtering av forskningsdata?
+
+1	Ja
+2	Nei
+0	Jeg er usikker/vet ikke
+
+
+q8b_prax_exist_policy_plan	8b. Du svarte &#34;nei&#34; eller &#34;usikker&#34; på forrige spørsmål. Eksisterer det planer om å utvikle noe slikt i fremtiden?
+
+1	Ja, institusjonen har planer om å utvikle en offisiell policy
+2	Nei, ingen slike planer finnes
+0	Jeg er usikker/vet ikke
+
+
+q9_prax_existing_tech	9. Benytter ett eller flere forskningsmiljøer ved institusjonen eksisterende tekniske løsninger for registrering og tilgjengeliggjøring av datasett?
+
+1	Ja
+2	Nei
+0	Usikker/vet ikke
+
+
+q9_prax_existing_tech_desc	9b. Beskriv gjerne kort hvilke løsninger du vet om som benyttes:
+
+
+q9_prax_existing_tech_plan	9b. Du svarte &#34;nei&#34; eller &#34;usikker&#34; på forrige spørsmål. Eksisterer det planer for forskningsmiljøene eller biblioteket om å benytte eksisterende tekniske løsninger i fremtiden?
+
+1	Ja
+2	Nei
+0	Jeg er usikker/vet ikke
+
+
+q10_prax_bib_dev_edu_vitass	10. Har biblioteket utformet eller vært med på å utforme kurs, workshops og/eller annet opplæringsmateriell for vitenskapelig ansatte, når det gjelder sikker lagring, tilgjengeliggjøring og/eller håndtering av forskningsdata?
+
+1	Ja
+2	Nei
+0	Jeg er usikker/vet ikke
+
+
+q10_prax_bib_dev_edu_vitass_desc	10b. Beskriv gjerne kort hva slags tilbud som er utviklet (For eksempel nettkurs, seminarer, håndbok o.l.)
+
+
+q10_prax_bib_dev_edu_vitass_plan	10b. Du svarte &#34;nei&#34; eller &#34;usikker&#34; på forrige spørsmål. Eksisterer det planer for biblioteket om å utvikle noe slikt i fremtiden?
+
+1	Ja, biblioteket har planer om å utvikle kurs/workshops og/eller annet opplæringsmateriell for vitenskapelig ansatte
+2	Nei, ingen slike planer finnes
+0	Jeg er usikker/vet ikke
+
+
+q11_prax_bib_kompheving_bibans	11. Har biblioteket et opplegg for kompetanseheving blant de bibliotekansatte (kurs, workshops og/eller annet opplæringsmateriell) innen kunnskaper om og bruk av løsninger for lagring, tilgjengeliggjøring og/eller håndtering av forskningsdata?
+
+1	Ja
+2	Nei
+0	Jeg er usikker/vet ikke
+
+
+q11_prax_bib_kompheving_bibans_desc	11b. Beskriv gjerne kort hva slags type tilbud som finnes for kompetanseheving blant bibliotekansatte (For eksempel nettkurs, seminarer, håndbok o.l.):
+
+
+q11_prax_bib_kompheving_bibans_plan	11b. Du svarte &#34;nei&#34; eller &#34;usikker&#34; på forrige spørsmål. Eksisterer det planer for biblioteket om å utvikle noe slikt i fremtiden?
+
+1	Ja
+2	Nei
+0	Jeg er usikker/vet ikke
+
+
+q12_finalcomments	12. Avslutningsvis, dersom det er noe du gjerne vil føye til, eller om du har noen andre tanker du vil dele om temaet for undersøkelsen, skriv dem i boksen under:
