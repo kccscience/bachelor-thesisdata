@@ -11,7 +11,7 @@ The codebook for the dataset. Read this for a translation of the short titles of
 A tab-delimitered file containing all the data from the questionnaire.
 ### data-187344-2021-04-14-2343-utf.xlsx
 The dataset as an MS Excel file. I have also Included a separate worksheet where the first two columns are removed (not relevant for analysis).
-### bacheloroppgave_773.pdf (TODO)
+### bacheloroppgave_773.pdf
 My bachelor thesis (to be uploaded on May 19, 2021).
 
 TODO: write abstract in Norwegian and English here.
