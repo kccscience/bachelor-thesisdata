@@ -1,5 +1,9 @@
 # bachelor-thesisdata
 This repository contains the data set for my bachelor thesis at OsloMet's Department of Library and Information Science, titled "A quantitative assessment of current research data management practices in Norwegian academic libraries" (Norwegian title: "En kvantitativ undersøkelse av status for forskningsdatahåndtering ved norske universitets- og høyskolebibliotek"). For other details (method, data collection, background etc.) see the thesis document itself.
+# DOI
+
+[![DOI](https://zenodo.org/badge/341500442.svg)](https://zenodo.org/badge/latestdoi/341500442)
+
 ## Contents
 ### README.md
 This file. Read it for everything you need to know about the rest of the contents.
